@@ -1,2 +1,0 @@
-# mcsr
-minecraft speedrunning things

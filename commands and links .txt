@@ -1,0 +1,20 @@
+// to install java
+sudo apt-get install openjdk-17-jdk
+
+//create resetti config
+resetti new profilename
+
+// use resetti 
+resetti profilename
+
+
+links:
+guide: https://its-saanvi.github.io/linux-mcsr/index.html
+
+maccel: https://github.com/Gnarus-G/maccel?tab=readme-ov-file#install
+
+resetti : https://github.com/tesselslate/resetti
+
+boat eye sens calculator: https://priffin.github.io/Pixel-Perfect-Tools/calc.html
+
+xEyeSee: https://github.com/qMaxXen/xEyeSee
