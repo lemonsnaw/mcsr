@@ -34,3 +34,6 @@ resetti : https://github.com/tesselslate/resetti
 boat eye sens calculator: https://priffin.github.io/Pixel-Perfect-Tools/calc.html
 
 xEyeSee: https://github.com/qMaxXen/xEyeSee
+
+// useful to have tracker on second moniter or persist after calculation 
+nbTracker: https://github.com/qMaxXen/NBTrackr
