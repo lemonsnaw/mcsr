@@ -21,6 +21,9 @@ resetti profilename
 
 
 links:
+prism launcher
+https://github.com/PrismLauncher/PrismLauncher/releases
+
 guide: https://its-saanvi.github.io/linux-mcsr/index.html
 
 discord: https://discord.com/invite/3tm4UpUQ8t
