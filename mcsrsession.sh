@@ -26,7 +26,7 @@ for entry in "${PROGS[@]}"; do
   fi
 
   gnome-terminal -- bash -c "cd '$DIR'; $cmd; $KEEP_OPEN_CMD" &
-  sleep 0.15
+  sleep 0.3
 done
 
 if [ "${#missing[@]}" -ne 0 ]; then
