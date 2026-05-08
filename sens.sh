@@ -25,7 +25,7 @@ CONF_ACCEL_PROFILE_ENABLED="0 1 0"
 
 # find line with mouse name ingoring anything that has additionals text 
 #after MOUSE_NAME to avoid matching weird devices like MOUSE_NAME Keyboard, extract id=NUMBER, then extract NUMBER
-MOUSE_ID=$(xinput --list --id-only "Wings Tech Gaming Mouse");
+MOUSE_ID=$(xinput --list --id-only "$CONF_MOUSE_NAME");
 
 if [[ -z "$MOUSE_ID" ]]; then
   echo "Mouse not found: $MOUSE_NAME" >&2
